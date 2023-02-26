@@ -1,0 +1,9 @@
+# Js-with-Prashanthi-Anand-Rao
+Code with me.This leads to GGB and Js
+//Addition of two numbers
+a = 25            // initialise a variable
+console.log(a)      // print a
+b = 36            // initialise a variable
+console.log(b)     // print b
+c = a+b;          // initialise a variable c=a+b
+console.log(c)     // print c
