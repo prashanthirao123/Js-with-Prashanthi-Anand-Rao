@@ -1,0 +1,11 @@
+// creating blocks and using the keyword var
+var a = 25
+var b = "Prashanthi";
+var c = null
+var d = undefined
+console.log(b)
+{
+  var b = "hi"
+  console.log(b)
+}
+console.log(b)
