@@ -1,0 +1,5 @@
+//To display a number and a string
+let a = 25
+let b = "Prashanthi"
+console.log(a)
+console.log(b)
