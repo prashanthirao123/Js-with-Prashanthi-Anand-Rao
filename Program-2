@@ -1,0 +1,9 @@
+# Js-with-Prashanthi-Anand-Rao
+Code with me.This leads to GGB and Js
+//addition of two numbers using the keyword let
+let a = 25
+console.log(a)
+let b = 36
+console.log(b)
+c = a+b;
+console.log(c)
