@@ -1,0 +1,9 @@
+// creating blocks and the keyword "var"
+var a = 25
+var b = "Prashanthi";
+var c = null
+var d = undefined
+{
+  var b = "hi"
+}
+console.log(b) // displays only the word "hi"
