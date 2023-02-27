@@ -1,0 +1,11 @@
+// use of let and console
+let a = 25
+let b = "Prashanthi";
+let c = null
+let d = undefined
+console.log(b)  //gives the output "Prashanthi"
+{
+  let b = "hi"
+  console.log(b) //gives the output "hi"
+}
+console.log(b)  //gives the output "Prashanthi"
